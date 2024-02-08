@@ -19,3 +19,4 @@ This is the first commit from main branch
 
 ### conflict
 * this is from developer-1. I want to keep this line of code
+* this is again from developer-1 adding more code
