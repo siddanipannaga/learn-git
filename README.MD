@@ -18,3 +18,4 @@ This is the first commit from main branch
 
 ### developer-2
 * I am developer-2, added some features
+* I am developer-2, just now it is completed
