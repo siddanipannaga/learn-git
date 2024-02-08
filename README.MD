@@ -12,3 +12,4 @@ This is the first commit from main branch
 
 ### squash
 * started developement
+* adding more code
